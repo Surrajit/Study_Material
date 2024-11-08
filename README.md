@@ -24,3 +24,18 @@ https://github.com/FavioVazquez/ds-cheatsheets
 https://github.com/josephmisiti/awesome-machine-learning
 
 https://github.com/academic/awesome-datascience
+
+## 10 GitHub Repositories to Master Data Science
+- https://github.com/virgili0/Virgilio
+- https://github.com/microsoft/Data-Science-For-Beginners
+- https://github.com/donnemartin/data-science-ipython-notebooks
+- https://github.com/eugeneyan/applied-ml
+- https://github.com/ossu/data-science
+- https://github.com/datasciencemasters
+- https://github.com/academic/awesome-datascience
+- https://github.com/alexeygrigorev/data-science-interviews
+
+## data-science-projects
+
+- https://github.com/topics/data-science-projects
+- https://github.com/topics/deep-learning-projects
