@@ -39,3 +39,7 @@ https://github.com/academic/awesome-datascience
 
 - https://github.com/topics/data-science-projects
 - https://github.com/topics/deep-learning-projects
+
+## Kaggle Resources
+- https://www.kaggle.com/discussions/getting-started/308844
+- https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle
